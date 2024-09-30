@@ -34,9 +34,12 @@
 - **Arduino IDE** สำหรับการเขียนโปรแกรมควบคุม
 - **Sensor** ต่างๆ เช่น เซ็นเซอร์วัดระดับอาหาร
 
+## เว็บไซต์โปรเจกต์
+สามารถดูรายละเอียดเพิ่มเติมได้ที่ [Animal Feeder Website](https://tanono48.github.io/Animal-feeder.github.io/)
+
 ## การติดตั้งและการใช้งาน
 
-1. ดาวน์โหลดโค้ดจาก [GitHub Repository](https://github.com/Tanono48/Animal-feeder/blob/main/code.ino)
+1. ดาวน์โหลดโค้ดจาก [GitHub Repository](https://github.com/Teset13118/PhysicalProject)
 2. ใช้ **Arduino IDE** ในการอัปโหลดโค้ดไปยังโมดูล **ESP8266 Wi-Fi**
 3. เชื่อมต่อแอพพลิเคชัน **Blynk** กับเครื่องให้อาหาร
 4. ตั้งค่าการใช้งานตามคู่มือที่แสดงในแอพพลิเคชัน
