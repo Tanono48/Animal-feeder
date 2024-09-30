@@ -36,7 +36,7 @@
 
 ## การติดตั้งและการใช้งาน
 
-1. ดาวน์โหลดโค้ดจาก [GitHub Repository](https://github.com/Tanono48/Animal-feeder)
+1. ดาวน์โหลดโค้ดจาก [GitHub Repository](https://github.com/Tanono48/Animal-feeder/blob/main/code.ino)
 2. ใช้ **Arduino IDE** ในการอัปโหลดโค้ดไปยังโมดูล **ESP8266 Wi-Fi**
 3. เชื่อมต่อแอพพลิเคชัน **Blynk** กับเครื่องให้อาหาร
 4. ตั้งค่าการใช้งานตามคู่มือที่แสดงในแอพพลิเคชัน
