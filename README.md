@@ -38,7 +38,7 @@
 <img src="https://github.com/Tanono48/Animal-feeder/blob/main/img/Poster.png" alt="My Image" width="400"/>
 
 ## เว็บไซต์โปรเจกต์
-สามารถดูรายละเอียดเพิ่มเติมได้ที่ [Animal Feeder Website](https://tanono48.github.io/Animal-feeder.github.io/)
+สามารถดูรายละเอียดเพิ่มเติมได้ที่ [Animal Feeder Website](https://tanono48.github.io/Automatic-Animal-Feeder.io/)
 
 ดูวิดีโอสาธิตโปรเจกต์ได้ที่ [YouTube](https://youtu.be/59jHEVZEHtM?feature=shared)
 
