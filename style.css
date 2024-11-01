@@ -81,6 +81,7 @@ img {
     color: #4f99e5;
 }
 
+
 /* ----------------------------------- banner section ------------------------------------ */
 
 .banner_section {
@@ -110,10 +111,12 @@ img {
 
 .main_text {
     color: #fff131;
+    line-height: 1; 
 }
 
 .controller_text {
     color: #599ee9;
+    line-height: 1; /* ระยะห่างระหว่างบรรทัด */
 }
 
 .banner_text {
